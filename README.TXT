@@ -1,4 +1,1 @@
-123
-
-Arbeitsaktualisierung!
-12345
+Dies ist ein TestRepo um die Funktionalität mit BlueJ zu testen.
