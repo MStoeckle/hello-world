@@ -1,10 +1,4 @@
 
-/**
- * Beschreiben Sie hier die Klasse TestKlasseNeu.
- * 
- * @author (Ihr Name) 
- * @version (eine Versionsnummer oder ein Datum)
- */
 public class TestKlasseNeu
 {
     // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
